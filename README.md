@@ -1,3 +1,5 @@
+<img src="https://github.com/AamuLumi/AamuLumi/blob/2757d6573c9ba7ed2051217e402d44b57bdfcf4e/bafkreiakmtldiacypw7cv62l2tmhgpq2sfymcwxbowuvu7excarjdmhsnqjpeg.png" height="300"/>
+
 French NB Clown doing stuff that nobody cares.
 
 **IDEAVim configuration**: https://gist.github.com/AamuLumi/a2f5111e44d39181bc26a05a695607a1
