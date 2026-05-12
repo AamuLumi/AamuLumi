@@ -15,6 +15,7 @@ French NB Clown doing stuff that nobody cares.
 
 ## 🖥️ Conferences
 
+- [FR] Cette théorie révolutionnaire que les managers détestent: Introduction à la dette non-technique ([video](https://www.youtube.com/watch?v=2FtMGtbKOsc), [slides](https://speakerdeck.com/aamulumi/cette-theorie-revolutionnaire-que-les-managers-detestent-introduction-a-la-dette-non-technique))
 - [FR] Pøé†ïqµêмèñ† Prøgråммé : Introduction à l'art algorithmique ([video](https://www.youtube.com/watch?v=sDmduvN-i2U), [slides](https://speakerdeck.com/aamulumi/poetiquement-programme-introduction-a-lart-algorithmique))
 - [FR] Pourquoi Javascript est un mauvais langage ? ([video](https://www.youtube.com/watch?v=lxROJkIs7ZU), [slides](https://speakerdeck.com/aamulumi/pourquoi-javascript-cest-de-la-merde), [slides 1.1](https://speakerdeck.com/aamulumi/pourquoi-javascript-cest-de-la-merde-1-dot-1-bordeauxjs-version))
 - [FR] J'ai jamais rien compris à Redux, donc je vais le recoder. ([slides](https://docs.google.com/presentation/d/1dw6Bf5KkkaIIWikzRKvSmX_GyIW9iUYQAKfyVS4VWi8))
