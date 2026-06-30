@@ -2,7 +2,7 @@
 
 French NB Clown doing stuff that nobody cares.
 
-**IDEAVim configuration**: https://gist.github.com/AamuLumi/a2f5111e44d39181bc26a05a695607a1
+**Dev env configuration**: [https://gist.github.com/AamuLumi/a2f5111e44d39181bc26a05a695607a1](https://github.com/AamuLumi/config#)
 
 ## 📝 Articles
 
